@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔗 Licencia y uso
+## Licencia y uso
 
 Este repositorio fue desarrollado exclusivamente con fines educativos. El dataset es de uso libre y está disponible públicamente en Kaggle. No se utiliza información sensible ni datos reales de clientes o empresas.
 
