@@ -1,0 +1,33 @@
+# ============================
+# Jupyter & IPython
+# ============================
+
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ============================
+# Archivos temporales y backups
+# ============================
+
+*.bak
+*.tmp
+*.swp
+*.log
+.DS_Store
+Thumbs.db
+
+# ============================
+# Entornos virtuales y dependencias
+# ============================
+
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+
